@@ -6,5 +6,4 @@ https://bounce-nokia-clone.vercel.app/
 
 Follow me :
 
-InstaGram : https://www.instagram.com/developer_rahul_/
-youtube : https://www.youtube.com/@developerRahul
+InstaGram : https://www.instagram.com/myselfshivaa/
